@@ -1,6 +1,6 @@
 # Brian Kipchirchir — Portfolio Website
 
-My personal portfolio site, showcasing my projects, skills, and background as I transition into full-stack development.
+My personal portfolio site, showcasing my projects, skills, and background as a full-stack developer.
 
 🔗 **Live site:** [briankipchirchir77.github.io/BRIANK-PORTFOLIO-WEBSITE](https://briankipchirchir77.github.io/BRIANK-PORTFOLIO-WEBSITE/)
 
@@ -14,6 +14,10 @@ Design is built around a navy and cyan color palette, inspired by my profile pho
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## Structure
+
+- `index.html` — portfolio content and links
+- `styles.css` — responsive layout and visual styles
+- `profile.jpg` — profile photo
+- `Brian_Kipchirchir_Full-Stack_Developer_CV.pdf` — downloadable CV
